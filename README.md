@@ -4,12 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andre4meister&label=Profile%20views&color=0e75b6&style=flat" alt="andre4meister" /> </p>
 
 
-- 🌱 I’m currently learning **JavaScript, Typescript, Node.js, Express, MongoDB, PostgreSQL, React and other powerful tools for building modern and scalable web applications**
+- 🌱 I’m currently learning **JavaScript, Typescript, Node.js, Express, MongoDB, PostgreSQL, React, Next.JS, and other powerful tools for building modern and scalable web applications**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/andrii-yarema" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andrii-yarema" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
